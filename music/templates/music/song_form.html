@@ -1,0 +1,28 @@
+{% extends 'music/base.html' %}
+{% block title %} Add a New Song {% endblock%}
+{% block albums_active %} active {% endblock%}
+{% block body %}
+<div class="contianer-fluit">
+	<div class="row">
+		<div class="col-sm-4 col-md-6">
+			<div class="panel panel-default">
+				<div class="panel-body">
+					<h3>Add a New Song</h3>
+                    {% if error_message %}
+                        <P><strong>{{ error_message }}</strong></P>
+                    {% endif %}
+					<form class="form-vertical" action="" method="post" enctype="multipart/form-data">
+						{% csrf_token %}
+						{% include 'music/form-template.html'%}
+						<div class="form-group">
+							<div class="col-sm-offset-2 col-sm-10">
+								<button type="submit" class="btn btn-success">Summit</button>
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+{%endblock%}

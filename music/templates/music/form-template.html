@@ -1,0 +1,12 @@
+{% for field in form %}
+{#    <div class="form-group">#}
+{#        <span class="alert-danger">{{field.errors}}</span>#}
+{#        <label>{{field.label_tag}}</label>#}
+        <div class="fieldWrapper">
+            {{ field.errors }}
+            {{ field.label_tag }} {{ field }}
+        </div>
+{#        <input class="form-control" type="{{ field }}" name="{{ field.name }}" placeholder="{{ field.label }}" >#}
+{#            <label for="{{ field.name }}" class="form-label">{{ field.label }}</label>#}
+{#    </div>#}
+{%endfor%}

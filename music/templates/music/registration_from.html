@@ -1,0 +1,70 @@
+
+{% block head %}
+    {% load staticfiles %}
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="{% static 'music/css/style1.css' %}"/>
+    <link rel="stylesheet" href="{% static 'music/fonts/material-design-iconic-font/css/material-design-iconic-font.min.css' %}">
+{#	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>#}
+{#	<script type="text/javascript" src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>#}
+    <title>Register</title>
+{%endblock%}
+{% block body %}
+    <div class="wrapper" style="background-image: url({% static 'music/images/bg-registration-form-1.jpg' %});">
+			<div class="inner">
+				<div class="image-holder">
+					<img src="{% static 'music/images/registration-form-1.jpg' %}" alt="">
+				</div>
+				<form method="post" enctype="multipart/form-data">
+                    {% csrf_token %}
+
+					<h3>Registration Form</h3>
+					<div class="form-group">
+						<input type="text" name="first_name" placeholder="First Name" class="form-control" required>
+						<input type="text" name="last_name" placeholder="Last Name" class="form-control" required>
+					</div>
+					<div class="form-wrapper">
+						<input type="text" placeholder="Username" name="username" class="form-control">
+						<i class="zmdi zmdi-account"></i>
+					</div>
+					<div class="form-wrapper">
+						<input type="text" placeholder="Email Address" name="email" class="form-control">
+						<i class="zmdi zmdi-email"></i>
+					</div>
+{#					<div class="form-wrapper">#}
+{#						<select name="gender" id="" class="form-control">#}
+{#							<option value="" disabled selected>Gender</option>#}
+{#							<option value="male">Male</option>#}
+{#							<option value="femal">Female</option>#}
+{#							<option value="other">Other</option>#}
+{#						</select>#}
+{#						<i class="zmdi zmdi-caret-down" style="font-size: 17px"></i>#}
+{#					</div>#}
+					<div class="form-wrapper">
+						<input type="password" placeholder="Password" name="password" class="form-control">
+						<i class="zmdi zmdi-lock"></i>
+					</div>
+                    {% if error_message %}
+                        <P><strong>{{ error_message }}</strong></P>
+                    {% endif %}
+					<div class="form-wrapper">
+						<input type="password" placeholder="Confirm Password" name="confirm_password" class="form-control">
+						<i class="zmdi zmdi-lock"></i>
+					</div>
+					<button type="submit">Register
+						<i class="zmdi zmdi-arrow-right"></i>
+					</button>
+                    <div class="w-full text-center p-t-55">
+						<span class="txt2">
+							Already a member?
+						</span>
+
+						<a href="{% url 'music:login'%}" class="txt2 bo1">
+							Sign in </a>
+					</div>
+				</form>
+			</div>
+		</div>
+{#     <script src="{% static 'music/vendor/jquery/jquery.min.js' %}"></script>#}
+{#     <script src="{% static 'music/js/main.js' %}"></script>#}
+{%endblock%}
