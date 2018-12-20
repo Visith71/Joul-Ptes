@@ -2,145 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92114379-9c74-462f-a9fa-948186e65e74" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/material-design-iconic-font/fonts/Material-Design-Iconic-Font.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/material-design-iconic-font/fonts/Material-Design-Iconic-Font.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/montserrat/Montserrat-Black.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/montserrat/Montserrat-BlackItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/montserrat/Montserrat-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/montserrat/Montserrat-BoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/montserrat/Montserrat-ExtraBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/montserrat/Montserrat-ExtraBoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/montserrat/Montserrat-ExtraLight.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/montserrat/Montserrat-ExtraLightItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/montserrat/Montserrat-Italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/montserrat/Montserrat-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/montserrat/Montserrat-LightItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/montserrat/Montserrat-Medium.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/montserrat/Montserrat-MediumItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/montserrat/Montserrat-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/montserrat/Montserrat-SemiBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/montserrat/Montserrat-SemiBoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/montserrat/Montserrat-Thin.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/montserrat/Montserrat-ThinItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/poppins/Poppins-Black.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/poppins/Poppins-BlackItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/poppins/Poppins-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/poppins/Poppins-BoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/poppins/Poppins-ExtraBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/poppins/Poppins-ExtraBoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/poppins/Poppins-ExtraLight.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/poppins/Poppins-ExtraLightItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/poppins/Poppins-Italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/poppins/Poppins-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/poppins/Poppins-LightItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/poppins/Poppins-Medium.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/poppins/Poppins-MediumItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/poppins/Poppins-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/poppins/Poppins-SemiBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/poppins/Poppins-SemiBoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/poppins/Poppins-Thin.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/poppins/Poppins-ThinItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/images/bg-01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/images/bg-registration-form-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/images/icons/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/images/icons/icon-google.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/images/icons/map-marker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/images/icons/symbol-01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/images/registration-form-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/samvisith.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/css/style.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/css/style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/css/style1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/css/util.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/Linearicons-Free-v1.0.0/icon-font.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/less/screen-reader.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/font-awesome-4.7.0/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/material-design-iconic-font/css/material-design-iconic-font.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/material-design-iconic-font/css/material-design-iconic-font.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/material-design-iconic-font/fonts/Material-Design-Iconic-Font.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/fonts/montserrat/OFL.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/animate/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/animsition/css/animsition.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/animsition/css/animsition.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/animsition/js/animsition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/animsition/js/animsition.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/bootstrap/css/bootstrap-grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/bootstrap/css/bootstrap-grid.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/bootstrap/css/bootstrap-grid.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/bootstrap/css/bootstrap-grid.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/bootstrap/css/bootstrap-reboot.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/bootstrap/css/bootstrap-reboot.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/bootstrap/css/bootstrap-reboot.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/bootstrap/css/bootstrap-reboot.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/bootstrap/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/bootstrap/js/popper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/bootstrap/js/popper.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/bootstrap/js/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/countdowntime/countdowntime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/css-hamburgers/hamburgers.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/css-hamburgers/hamburgers.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/daterangepicker/daterangepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/daterangepicker/daterangepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/daterangepicker/moment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/daterangepicker/moment.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/jquery/jquery-3.2.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/perfect-scrollbar/perfect-scrollbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/perfect-scrollbar/perfect-scrollbar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/select2/select2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/select2/select2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/select2/select2.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/vendor/select2/select2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -204,7 +66,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/music/templates/music/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="975">
               <caret line="65" column="51" selection-start-line="65" selection-start-column="49" selection-end-line="65" selection-end-column="51" />
               <folding />
             </state>
@@ -214,7 +76,7 @@
       <file leaf-file-name="detail.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/music/templates/music/detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
+            <state relative-caret-position="1695">
               <caret line="113" column="37" selection-start-line="113" selection-start-column="28" selection-end-line="113" selection-end-column="37" />
               <folding>
                 <marker date="1545232426000" expanded="false" signature="4804:4816" placeholder="..." />
@@ -226,15 +88,9 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/music/templates/music/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="405">
               <caret line="81" column="10" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#hr#0;n#div#1;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#hr#0;n#div#2;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#hr#0;n#div#3;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -596,8 +452,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="Course" />
     </panes>
   </component>
@@ -970,16 +826,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25767368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282572" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32577905" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32154882" sideWeight="0.49676898" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.49676898" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3125" sideWeight="0.49353796" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3125" sideWeight="0.49353796" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1366,7 +1222,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/music/templates/music/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="975">
           <caret line="65" column="51" selection-start-line="65" selection-start-column="49" selection-end-line="65" selection-end-column="51" />
           <folding />
         </state>
@@ -1374,7 +1230,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/music/templates/music/detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
+        <state relative-caret-position="1695">
           <caret line="113" column="37" selection-start-line="113" selection-start-column="28" selection-end-line="113" selection-end-column="37" />
           <folding>
             <marker date="1545232426000" expanded="false" signature="4804:4816" placeholder="..." />
@@ -1384,15 +1240,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/music/templates/music/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="405">
           <caret line="81" column="10" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#hr#0;n#div#1;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#hr#0;n#div#2;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#hr#0;n#div#3;n#div#0;n#div#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
